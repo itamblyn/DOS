@@ -1,0 +1,5 @@
+plot "surface_1630/gw_full.dat" u ($1 - -0.078):3, "surface_3330/gw_full.dat" u ($1 - -0.504):3, (8*1 + 4*6 + 2*5 + 65*3)*4
+
+HOMO = -2.27 eV for 1630
+
+HOMO = -2.14 eV for 3330
